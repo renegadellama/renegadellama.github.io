@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Seattle's Key to Wellness</title>
+  </head>
+  <body>
+    <header>
+      <h1>Seattle's Key to Wellness</h1>
+      Seattle's Key to Wellness
+    </header>
+    <nav>
+      <ul>
+        <li>Home</li>
+        <li>Self Care</li>
+        <li>Nutrition</li>
+        <li>Fitness</li>
+      </ul>
+    </nav>
+    <section>
+      <article>
+          <h2>Reccomendations Near Downtown Seattle</h2>
+          <img src="downtown seattle.jpg">
+      </article>
+      <h2>Self Care</h2>
+      <h3>Nutrition</h3>
+      <h4>Fitness</h4>
+    </section>
+
+    <footer>Team Well 2015</footer>
+  </body>
+</html>
